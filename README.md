@@ -71,6 +71,8 @@ Mkunga is chatbot designed to provides culturally relevant information on menstr
 ```bash
    rails server
 
+---
+
 ## Contributing
 We welcome contributions to expand the chatbot’s features and improve its content. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
@@ -82,5 +84,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 ## Acknowledgments
+
 - Inspired by the need for better health resources tailored to African women.
 - Thanks to the contributors and healthcare professionals who reviewed the content.
