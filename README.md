@@ -63,7 +63,6 @@ Mkunga is chatbot designed to provides culturally relevant information on menstr
    git clone https://github.com/your-repo-name.git
    cd african-womens-health-chatbot
 
-
 2. Install dependencies:
 ```bash
    bundle install
@@ -73,13 +72,4 @@ Mkunga is chatbot designed to provides culturally relevant information on menstr
    Copy code
    rails server
 
-### Contributing
-We welcome contributions to expand the chatbot’s features and improve its content. Please read the CONTRIBUTING.md for guidelines.
-
-### License
-This project is licensed under the MIT License.
-
-### Acknowledgments
-Inspired by the need for better health resources tailored to African women.
-Thanks to the contributors and healthcare professionals who reviewed the content.
 
