@@ -64,11 +64,12 @@ Mkunga is chatbot designed to provides culturally relevant information on menstr
    cd african-womens-health-chatbot
 
 2. Install dependencies:
-```bash
+   ```bash
    bundle install
+   
 
 3. Run the application:
-```bash
+   ```bash
    rails server
 
 ---
